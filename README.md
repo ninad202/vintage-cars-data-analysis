@@ -9,8 +9,6 @@ The goal is to analyze car brands, models, price trends, and performance feature
 ## 📊 Dataset
 - Source: Custom Dataset
 - Format: CSV
-- Rows: XXXX
-- Columns: XXXX
 
 ## 🛠 Tools & Technologies
 - Python
